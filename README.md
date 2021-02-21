@@ -29,3 +29,7 @@ Examples:
 ### Harder, Better, Faster, Stronger
 
 ![Harder, Better, Faster, Stronger](harder-better-faster-stronger.png)
+
+## License
+
+MIT license: do what you want with it, but I offer no support and I accept no responsibility for the software. I will consider pull reqeusts.

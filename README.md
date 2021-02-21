@@ -24,11 +24,11 @@ Examples:
 
 ### Get Lucky
 
-![Get Lucky](get-lucky.png)
+![Get Lucky](songs/daft-punk/get-lucky.png)
 
 ### Harder, Better, Faster, Stronger
 
-![Harder, Better, Faster, Stronger](harder-better-faster-stronger.png)
+![Harder, Better, Faster, Stronger](songs/daft-punk/harder-better-faster-stronger.png)
 
 ## License
 
